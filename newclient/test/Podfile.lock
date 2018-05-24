@@ -1,0 +1,16 @@
+PODS:
+  - thrift (0.9.3)
+
+DEPENDENCIES:
+  - thrift (~> 0.9.3)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - thrift
+
+SPEC CHECKSUMS:
+  thrift: 206849d78773b19e1be3cc1bbe094371c0adfbe2
+
+PODFILE CHECKSUM: def562c84afa2ccc512d0fb8d2b0440660a2d2e9
+
+COCOAPODS: 1.5.0
