@@ -36,3 +36,6 @@ To test this on a real device, deploy the server code to your hosting of choice 
 ### Thrift 0.9.3
 Mac OS 10.13.4 install thrift 0.9.3 with refer link 
 https://gist.github.com/timvlaer/721ba30f8fc6a7aac1b0190e132a4261
+
+p.s. Before you brew link thrift,make sure that you have deleted the high version e.g. thrift@0.11.0.
+On my mac,the path is "/usr/local/Cellar/thrift/xxxxx"
